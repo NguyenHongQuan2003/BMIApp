@@ -32,7 +32,14 @@ public class App extends Application {
     }
 
     public static void main(String[] args) {
-        launch();
+        int a=0;
+        boolean check;
+        if (a==1)
+        {
+            check=true;
+        }
+        else 
+            check = false;
     }
 
 }
